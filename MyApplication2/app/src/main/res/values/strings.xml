@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyDqsd7wnGbDuw_6wXNO1ygIcAYPIDRhdlA</string>
+    <string name="pick_color">Select</string>
+    <array name="colors_array">
+        <item>Weather</item>
+        <item>Station</item>
+    </array>
+</resources>
